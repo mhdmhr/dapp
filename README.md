@@ -1,7 +1,7 @@
 
 # dapp1- Election Dapp
 
-A basic dapp using solidity v 0.4.2 designed to fetch votes from differents ethereum accounts.
+A basic dapp using solidity v 0.4.2 designed to fetch votes from different ethereum accounts.
 
 ## Dependencies
 
